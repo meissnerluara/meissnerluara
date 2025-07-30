@@ -31,10 +31,4 @@ Atualmente trabalho na **E-Consultoria de Vendas Especializada em Marketplace e 
 
 ---
 
-### Contato
-
-[![LinkedIn](www.linkedin.com/in/luara-godoy-meissner-pereira-88ab971b6)  
-
----
-
 > *"Transformo dados brutos em decisões inteligentes."*
