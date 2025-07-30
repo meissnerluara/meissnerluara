@@ -2,17 +2,17 @@
 
 Engenharia de Dados | Python • APIs • Web Scraping • Power BI
 
-💡 Foco em automação, integração de dados e soluções para marketplace e e-commerce  
+💡 Foco em automação e integração de dados
 
 ---
 
 ### Sobre mim
 
-Sou apaixonada por dados e automação. No meu dia a dia, projeto pipelines e ferramentas que facilitam a tomada de decisão em ambientes altamente dinâmicos como marketplaces (Amazon, Mercado Livre, Magalu, Shopee, Shein, entre outros). 
+Sou apaixonada por dados. No meu dia a dia, projeto pipelines e ferramentas que facilitam a tomada de decisão em ambientes altamente dinâmicos como marketplaces. 
 
 Atualmente trabalho na **E-Consultoria de Vendas Especializada em Marketplace e E-Commerce**, onde sou responsável por:
 
-- Coleta de dados via **APIs REST** (Amazon SP-API, Mercado Livre, Magalu, etc.)
+- Coleta de dados via **APIs REST** (Amazon SP-API, Mercado Livre APIs, API Magalu, etc.)
 - Transformação e carga em **PostgreSQL (Supabase/Railway)**  
 - Geração de relatórios em **Excel (.xlsx)** e visualizações com **Power BI**  
 - Desenvolvimento de uma aplicação web com **FastAPI** para unificar fluxos de automação
