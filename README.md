@@ -1,9 +1,7 @@
 # Luara Meissner
 
-Estagiária em Engenharia de Dados | Python • APIs • Web Scraping • Power BI
+Engenharia de Dados | Python • APIs • Web Scraping • Power BI
 
-📍 São Paulo  
-🎓 Graduanda em Sistemas de Informação – Universidade de Mogi das Cruzes  
 💡 Foco em automação, integração de dados e soluções para marketplace e e-commerce  
 
 ---
