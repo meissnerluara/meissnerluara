@@ -1,33 +1,44 @@
-# Luara Meissner
+<h1 align="center">Luara Meissner</h1>
 
-Engenharia de Dados | Python • APIs • Web Scraping • Power BI
+<p align="center">
+  <b>Dados</b> | Python • APIs • SQL • Power BI  
+</p>
 
-💡 Foco em automação e integração de dados
-
----
-
-### Sobre mim
-
-Sou apaixonada por dados. No meu dia a dia, projeto pipelines e ferramentas que facilitam a tomada de decisão em ambientes altamente dinâmicos como marketplaces. 
-
-Atualmente trabalho na **E-Consultoria de Vendas Especializada em Marketplace e E-Commerce**, onde sou responsável por:
-
-- Coleta de dados via **APIs REST** (Amazon SP-API, Mercado Livre APIs, API Magalu, etc.)
-- Transformação e carga em **PostgreSQL (Supabase/Railway)**  
-- Geração de relatórios em **Excel (.xlsx)** e visualizações com **Power BI**  
-- Desenvolvimento de uma aplicação web com **FastAPI** para unificar fluxos de automação
+<p align="center">
+  Foco em automação e integração de dados
+</p>
 
 ---
 
-### Habilidades Técnicas
+## Sobre mim  
 
-- **Python** (Requests, Pandas, FastAPI, Selenium)
-- **APIs REST** (Amazon SP-API, Mercado Livre, Magalu)
-- **Banco de Dados**: PostgreSQL, SQL puro e modelagem ELT
-- **Power BI**: Dashboards dinâmicos com foco em performance
-- **JavaScript, HTML/CSS** (nível introdutório)
-- **Git & GitHub**, Hospedagem com **Vercel**
-- Certificação em **Inglês - B2 (Cambridge Assessment English)**
+Estagiária em Engenharia de Dados com experiência no desenvolvimento de pipelines, automações e ferramentas que otimizam processos e fortalecem a tomada de decisão em marketplaces e e-commerce.  
+
+Atualmente na **E-Consultoria de Vendas Especializada em Marketplace e E-Commerce**, atuo com:  
+- Extração de dados via **APIs REST** (Amazon, Mercado Livre, Magalu)  
+- Transformação e carga em **PostgreSQL**  
+- Relatórios em **Excel** e dashboards no **Power BI**  
+- Aplicações web com **FastAPI** para unificação de fluxos de automação  
+
+---
+
+## Competências Técnicas  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+---
+
+## Idiomas  
+- **Inglês** – B2 (Cambridge Assessment English)  
 
 ---
 
