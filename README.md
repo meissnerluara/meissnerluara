@@ -1,7 +1,7 @@
 <h1 align="center">Luara Meissner</h1>
 
 <p align="center">
-  <b>Dados</b> | Python • APIs • SQL • Power BI  
+  Python • APIs • SQL • Power BI  
 </p>
 
 <p align="center">
