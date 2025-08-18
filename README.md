@@ -4,18 +4,14 @@
   Python • APIs • SQL • Power BI  
 </p>
 
-<p align="center">
-  Foco em automação e integração de dados
-</p>
-
 ---
 
 ## Sobre mim  
 
-Estagiária em Engenharia de Dados com experiência no desenvolvimento de pipelines, automações e ferramentas que otimizam processos e fortalecem a tomada de decisão em marketplaces e e-commerce.  
+Estagiária em Engenharia e Análise de Dados com experiência no desenvolvimento de pipelines, ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.  
 
 Atualmente na **E-Consultoria de Vendas Especializada em Marketplace e E-Commerce**, atuo com:  
-- Extração de dados via **APIs REST** (Amazon, Mercado Livre, Magalu)  
+- Extração de dados via **APIs REST** (Amazon, Mercado Livre, Shopee, Shein e Magalu)  
 - Transformação e carga em **PostgreSQL**  
 - Relatórios em **Excel** e dashboards no **Power BI**  
 - Aplicações web com **FastAPI** para unificação de fluxos de automação  
@@ -25,8 +21,8 @@ Atualmente na **E-Consultoria de Vendas Especializada em Marketplace e E-Commerc
 ## Competências Técnicas  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
@@ -38,8 +34,8 @@ Atualmente na **E-Consultoria de Vendas Especializada em Marketplace e E-Commerc
 ---
 
 ## Idiomas  
-- **Inglês** – B2 (Cambridge Assessment English)  
+- **Inglês** – B2 (Linguaskill by Cambridge English Language Assessment)  
 
 ---
 
-> *"Transformo dados brutos em decisões inteligentes."*
+> *"Transformando dados brutos em decisões inteligentes."*
