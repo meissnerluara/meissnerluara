@@ -1,7 +1,7 @@
 <h1 align="center">Luara Meissner</h1>
 
 <p align="center">
-  Python • APIs • SQL • Power BI  
+  Python • API • SQL • Power BI  
 </p>
 
 ---
@@ -10,11 +10,11 @@
 
 Graduanda no último semestre de Sistemas de Informação e estagiária em Engenharia e Análise de Dados com experiência no desenvolvimento de ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.  
 
-Atualmente na **E-Consultoria de Vendas Especializada em Marketplace e E-Commerce**, atuo com:  
-- Extração de dados via **APIs REST** de Marketplaces
+Atualmente na **E-Consultoria de Vendas**, atuo com:  
+- Extração de dados de marketplaces via **API REST** 
 - Transformação e carga em **PostgreSQL**  
 - Relatórios em **Excel** e dashboards no **Power BI**  
-- Aplicações web com **FastAPI** para unificação de fluxos de automação  
+- Aplicação web com **FastAPI** para unificação de fluxos de automação  
 
 ---
 
