@@ -8,7 +8,7 @@
 
 ## Sobre mim  
 
-Graduanda em Sistemas de Informação e estagiária em Engenharia e Análise de Dados com experiência no desenvolvimento de ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.  
+Graduanda no último semestre de Sistemas de Informação e estagiária em Engenharia e Análise de Dados com experiência no desenvolvimento de ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.  
 
 Atualmente na **E-Consultoria de Vendas Especializada em Marketplace e E-Commerce**, atuo com:  
 - Extração de dados via **APIs REST** (Amazon, Mercado Livre, Shopee, Shein e Magalu)  
