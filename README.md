@@ -11,7 +11,7 @@
 Graduanda no último semestre de Sistemas de Informação e estagiária em Engenharia e Análise de Dados com experiência no desenvolvimento de ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.  
 
 Atualmente na **E-Consultoria de Vendas Especializada em Marketplace e E-Commerce**, atuo com:  
-- Extração de dados via **APIs REST** (Amazon, Mercado Livre, Shopee, Shein e Magalu)  
+- Extração de dados via **APIs REST** de Marketplaces
 - Transformação e carga em **PostgreSQL**  
 - Relatórios em **Excel** e dashboards no **Power BI**  
 - Aplicações web com **FastAPI** para unificação de fluxos de automação  
