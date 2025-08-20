@@ -1,7 +1,7 @@
 <h1 align="center">Luara Meissner</h1>
 
 <p align="center">
-  Python • API • SQL • Power BI  .
+  Python • API • SQL • Power BI  
 </p>
 
 ---
