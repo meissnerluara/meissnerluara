@@ -6,7 +6,7 @@
 
 ---
 
-## Sobre mim x 
+## Sobre mim  
 
 Graduanda no último semestre de Sistemas de Informação e estagiária em Engenharia e Análise de Dados com experiência no desenvolvimento de ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.  
 
