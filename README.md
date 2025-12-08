@@ -14,7 +14,9 @@ Atualmente na **E-Consultoria de Vendas**, atuo com:
 - Extração de dados de marketplaces via **API REST** 
 - Transformação e carga em **PostgreSQL**  
 - Relatórios em **Excel** e dashboards no **Power BI**  
-- Aplicação web com **FastAPI** para unificação de fluxos de automação  
+- Aplicação web com **FastAPI** para unificação de fluxos de automação
+
+Confira meu perfil do Trabalho de Conclusão de Curso: https://github.com/luaraumc
 
 ---
 
