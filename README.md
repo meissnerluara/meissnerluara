@@ -1,19 +1,19 @@
 <h1 align="center">Luara Meissner</h1>
 
 <p align="center">
-  Análise de Dados • Python • SQL • ETL • Power BI  
+  Análise de Dados • FastAPI • ETL • PostgreSQL • Power BI  
 </p>
 
 ---
 
 ### Sobre mim  
 
-Graduanda no último semestre de Sistemas de Informação e estagiária em Engenharia e Análise de Dados com experiência no desenvolvimento de ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.  
+Engenheira de Dados Júnior, graduada em Sistemas de Informação, com experiência no desenvolvimento de ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.
 
 Atualmente na **E-Consultoria de Vendas**, atuo com:  
-- Extração de dados de marketplaces via **API REST** 
+- Extração de dados de 5 marketplaces via **API REST** 
 - Transformação e carga em **PostgreSQL**  
-- Relatórios em **Excel** e dashboards no **Power BI**  
+- Relatórios em **XLSX** e dashboards no **Power BI**  
 - Aplicação web com **FastAPI** para unificação de fluxos de automação
 
 Confira meu perfil do Trabalho de Conclusão de Curso: https://github.com/luaraumc
