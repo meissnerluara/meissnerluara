@@ -1,16 +1,16 @@
 <h1 align="center">Luara Meissner</h1>
 
 <p align="center">
-  Análise de Dados • FastAPI • ETL • PostgreSQL • Power BI  
+  Análise de Dados • Power BI • PostgreSQL • FastAPI • ETL  
 </p>
 
 ---
 
 ### Sobre mim  
 
-Engenheira de Dados Júnior, graduada em Sistemas de Informação, com experiência no desenvolvimento de ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.
+Analista de dados, graduada em Sistemas de Informação, com experiência no desenvolvimento de ferramentas e automações que otimizam processos e fortalecem a tomada de decisão.
 
-Atualmente na **E-Consultoria de Vendas**, atuo com:  
+Possuo experiencia com:  
 - Extração de dados de 5 marketplaces via **API REST** 
 - Transformação e carga em **PostgreSQL**  
 - Relatórios em **XLSX** e dashboards no **Power BI**  
